@@ -1,0 +1,30 @@
+Sep 27 13:38:37 kali sshd-session[3468]: pam_unix(sshd:auth): check pass; user unknown
+Sep 27 13:38:39 kali sshd-session[3468]: Failed password for invalid user usuarioinventado1 from ::1 port 45396 ssh2
+Sep 27 13:38:39 kali sshd-session[3468]: Connection closed by invalid user usuarioinventado1 ::1 port 45396 [preauth]
+Sep 27 13:38:39 kali sshd-session[3468]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=::1
+Sep 27 13:38:50 kali sshd-session[4059]: Invalid user usuarioinventado2 from ::1 port 43596
+Sep 27 13:38:53 kali sshd-session[4059]: pam_unix(sshd:auth): check pass; user unknown
+Sep 27 13:38:53 kali sshd-session[4059]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=::1
+Sep 27 13:38:55 kali sshd-session[4059]: Failed password for invalid user usuarioinventado2 from ::1 port 43596 ssh2
+Sep 27 13:38:59 kali sshd-session[4059]: pam_unix(sshd:auth): check pass; user unknown
+Sep 27 13:39:01 kali sshd-session[4059]: Failed password for invalid user usuarioinventado2 from ::1 port 43596 ssh2
+Sep 27 13:39:04 kali sshd-session[4059]: pam_unix(sshd:auth): check pass; user unknown
+Sep 27 13:39:06 kali sshd-session[4059]: Failed password for invalid user usuarioinventado2 from ::1 port 43596 ssh2
+Sep 27 13:39:07 kali sshd-session[4059]: Connection closed by invalid user usuarioinventado2 ::1 port 43596 [preauth]
+Sep 27 13:39:07 kali sshd-session[4059]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=::1
+Sep 27 13:39:15 kali sshd-session[4316]: Invalid user admin from ::1 port 41114
+Sep 27 13:39:18 kali sshd-session[4316]: pam_unix(sshd:auth): check pass; user unknown
+Sep 27 13:39:18 kali sshd-session[4316]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=::1
+Sep 27 13:39:19 kali sshd-session[4316]: Failed password for invalid user admin from ::1 port 41114 ssh2
+Sep 27 13:39:21 kali sshd-session[4316]: pam_unix(sshd:auth): check pass; user unknown
+Sep 27 13:39:24 kali sshd-session[4316]: Failed password for invalid user admin from ::1 port 41114 ssh2
+Sep 27 13:39:25 kali sshd-session[4316]: pam_unix(sshd:auth): check pass; user unknown
+Sep 27 13:39:27 kali sshd-session[4316]: Failed password for invalid user admin from ::1 port 41114 ssh2
+Sep 27 13:39:30 kali sshd-session[4316]: Connection closed by invalid user admin ::1 port 41114 [preauth]
+Sep 27 13:39:30 kali sshd-session[4316]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=::1
+Sep 27 13:39:37 kali sshd-session[4481]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=::1  user=root
+Sep 27 13:39:39 kali sshd-session[4481]: Failed password for root from ::1 port 53836 ssh2
+Sep 27 13:39:44 kali sshd-session[4481]: Failed password for root from ::1 port 53836 ssh2
+Sep 27 13:39:49 kali sshd-session[4481]: Failed password for root from ::1 port 53836 ssh2
+Sep 27 13:39:50 kali sshd-session[4481]: Connection closed by authenticating user root ::1 port 53836 [preauth]
+Sep 27 13:39:50 kali sshd-session[4481]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=::1
